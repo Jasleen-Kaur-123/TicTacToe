@@ -26,12 +26,12 @@ A classic 2-player Tic Tac Toe game built for Android. The app features smooth a
 
 ## 🖼️ Screenshots
 
-![Main Game Screen](screenshots/main_game.png)  
+![Main Game Screen](Screenshots/main_game.png)  
 *The game board where players take turns*
 
-![Result Dialog](screenshots/start_game.png)  
+![Result Dialog](Screenshots/start_game.png)  
 *Start Tic Tac Toe Game*
 
-![Splash Screen](screenshots/splash_screen.png)  
+![Splash Screen](Screenshots/splash_screen.png)  
 *App splash screen*
 
